@@ -3,6 +3,10 @@
 Solidity Workshop conducted at Karachi Institute of Technology and Entrepreneurship (KITE) on 29th October 2021.
 Instructor: Syed Faisal ur Rahman
 
+You can run these codes using Remix: https://remix.ethereum.org/.
+
+Just clone the repo or download the files from this repo and load these code files into your workspace. 
+
 Readings and references for the code examples and related theory:
 
 https://www.tutorialspoint.com/solidity/index.htm
