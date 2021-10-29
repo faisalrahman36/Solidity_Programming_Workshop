@@ -1,6 +1,7 @@
 // Solidity program to
 // demonstrate adding
 // values to mapping
+//Ref: https://www.geeksforgeeks.org/solidity-mappings/?ref=leftbar-rightbar
 pragma solidity ^0.4.18;
 
 // Creating contract
