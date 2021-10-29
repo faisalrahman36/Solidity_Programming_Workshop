@@ -1,3 +1,4 @@
+//Ref: https://www.tutorialspoint.com/solidity/solidity_enums.htm
 pragma solidity ^0.5.0;
 
 contract test {
