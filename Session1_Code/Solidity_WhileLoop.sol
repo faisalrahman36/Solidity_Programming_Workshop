@@ -1,6 +1,7 @@
 // Solidity program to 
 // demonstrate the use
 // of 'While loop'
+//Ref: https://www.geeksforgeeks.org/solidity-while-do-while-and-for-loop/?ref=lbp
 pragma solidity ^0.5.0; 
   
 // Creating a contract 
