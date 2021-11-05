@@ -1,6 +1,6 @@
 # Solidity_Programming_Workshop
 
-Solidity Workshop conducted at Karachi Institute of Technology and Entrepreneurship (KITE) on 29th October 2021.
+Solidity workshop sessions conducted at Karachi Institute of Technology and Entrepreneurship (KITE).
 
 Instructor: Syed Faisal ur Rahman
 
