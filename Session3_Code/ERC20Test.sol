@@ -1,6 +1,6 @@
 //ref: https://www.toptal.com/ethereum/create-erc20-token-tutorial
 //ref: https://gist.github.com/giladHaimov/8e81dbde10c9aeff69a1d683ed6870be#file-basicerc20-sol
-pragma solidity ^0.4.19;
+pragma solidity ^0.5.0;
 
 contract ERC20Test {
 

@@ -1,6 +1,6 @@
 
 // https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.0.0/contracts/token/ERC20/IERC20.sol
-pragma solidity ^0.4.19;
+pragma solidity ^0.5.0;
 interface IERC20 {
     function totalSupply() external view returns (uint);
 
